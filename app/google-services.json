@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "638535833726",
+    "firebase_url": "https://fordaapp-7e032-default-rtdb.firebaseio.com",
+    "project_id": "fordaapp-7e032",
+    "storage_bucket": "fordaapp-7e032.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638535833726:android:0dc1f59c3a0905e3d6a02f",
+        "android_client_info": {
+          "package_name": "com.example.fordaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "638535833726-4uljftf1j8sfu6f899adkvalv2g008a9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_yQvGkvdDVa4k5iqPLJHEMgiTv0SlvMg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "638535833726-4uljftf1j8sfu6f899adkvalv2g008a9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638535833726:android:5b59c4cd10482d59d6a02f",
+        "android_client_info": {
+          "package_name": "com.example.fordaapp2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "638535833726-4uljftf1j8sfu6f899adkvalv2g008a9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_yQvGkvdDVa4k5iqPLJHEMgiTv0SlvMg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "638535833726-4uljftf1j8sfu6f899adkvalv2g008a9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638535833726:android:4842b9a678befe41d6a02f",
+        "android_client_info": {
+          "package_name": "com.example.fordaapptensor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "638535833726-4uljftf1j8sfu6f899adkvalv2g008a9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_yQvGkvdDVa4k5iqPLJHEMgiTv0SlvMg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "638535833726-4uljftf1j8sfu6f899adkvalv2g008a9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

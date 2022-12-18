@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/background"
+    tools:context=".Classifier">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/ivResult"
+                android:layout_width="match_parent"
+                android:layout_height="500dp"
+                android:layout_gravity="center"
+                android:background="@color/white"
+                android:layout_marginTop="50dp" />
+
+
+            <TextView
+                android:id="@+id/tvClassified"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="20dp"
+                android:text=""
+                android:textColor="@color/white"/>
+
+            <Button
+                android:id="@+id/btnCamera"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Open Camera"
+                android:textAllCaps="false"
+                android:textColor="@color/white"
+                android:textSize="21sp"
+                android:textStyle="bold" />
+            <Button
+                android:id="@+id/btnGallery"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Open Gallery"
+                android:textColor="@color/white"
+                android:textAllCaps="false"
+                android:textSize="21sp"
+                android:textStyle="bold" />
+
+        </LinearLayout>
+
+    </ScrollView>
+
+
+
+
+</LinearLayout>
